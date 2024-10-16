@@ -1,0 +1,21 @@
+body{
+  background-color:black
+}
+
+.redPara{
+  color:green;font-size: 20px; text-align: center; font-family: sans-serif; font-weight: bolder;
+
+}
+.Para2{
+  color: orange; font-size: 20px; text-align:left; font-family: sans-serif;
+
+}
+#silly1{
+  color: red; font-size: 10px; left; vertical-align: top;
+}
+.Graph3{
+  color: magenta; font-size: 20px; text-align:right; font-family:sans-serif;
+}
+#silly2{
+  color: yellow; font-size: 25px; text-transform: uppercase;text-align:right;
+}
