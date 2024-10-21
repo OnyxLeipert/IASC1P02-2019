@@ -1,0 +1,57 @@
+body{
+	color:Black;
+	background-color:black;
+
+}
+
+
+#wrapper{
+	width:1600px;
+	height: 1000px;
+	margin:0 auto;
+	background-color:white;
+
+}
+
+#header{
+	position: fixed;left: 300px;
+	position: fixed;top: 100px;
+	width:250px;
+	height: 250px;
+	background-color:blue;
+	padding:5px;
+
+
+}
+
+#leftbody{
+	position: fixed;right: 300px;
+	position: fixed;top: 100px;
+	float:left;
+	width:250px;
+	height: 250px;
+	background-color:red;
+	padding:5px;
+
+
+}
+#rightbody{
+	position: fixed;bottom: 200px;
+	position: fixed;left:800px;
+	width:250px;
+	height:250px;
+	background:yellow;
+	padding:5px;
+
+}
+
+#bottom{
+	position: absolute;top: 30px;
+	position: absolute;left: 200px;
+	width:1500px;
+	height: 900px;
+	background-color:green;
+	padding:5px;
+	margin:0 auto;
+
+}
