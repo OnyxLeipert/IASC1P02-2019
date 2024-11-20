@@ -1,0 +1,114 @@
+body {
+  color:blue;
+  background-color: yellow;
+}
+#Logo{
+  width: 100px; height: 100px;
+  outline: 1px solid black;
+  position: absolute;left: 10px;
+  position:absolute;top: 0px;
+}
+#title{
+  width: 310px;
+  height: 57px;
+  outline: 1px solid black;
+  position: absolute;left: 110px;
+  position: absolute;top:0px;
+}
+
+#Version {
+  width: 310px;
+  height: 43px;
+  outline: 1px solid black;
+  position: absolute;left: 110px;
+  position: absolute;top: 57px;
+}
+
+#News{
+  width: 410px;
+  height: 100px;
+  outline: 1px solid black;
+  position:absolute;left: 420px;
+  position: absolute;top: 0px;
+
+}
+
+#Screenshot{
+  width: 410px;
+  height: 300px;
+  outline: 1px solid black;
+  position: absolute;left: 10px;
+  position: absolute;top: 101px;
+}
+
+
+#Button1{
+  width: 82px;
+  height: 100px;
+  outline: 1px solid black;
+  position: absolute;left: 10px;
+  position: absolute;top: 402px;
+}
+#Button2{
+  width: 82px;
+  height: 100px;
+  outline: 1px solid black;
+  position: absolute;left: 92px;
+  position: absolute;top: 402px;
+}
+#Button3{
+  width: 82px;
+  height: 100px;
+  outline: 1px solid black;
+  position: absolute;left: 174px;
+  position: absolute;top: 402px;
+}
+#Button4{
+  width: 82px;
+  height: 100px;
+  outline: 1px solid black;
+  position: absolute;left: 256px;
+  position: absolute;top: 402px;
+}
+#Button5{
+  width: 82px;
+  height: 100px;
+  outline: 1px solid black;
+  position: absolute;left: 338px;
+  position: absolute;top: 402px;
+}
+#Updatelog{
+  width: 410px;
+  height: 401px;
+  outline:1px solid black;
+  position: absolute;top: 101px;
+  position: absolute;left: 420px
+}
+#Contact{
+  width: 310px;
+  height: 150px;
+  outline: 1px solid black;
+  position: absolute;top: 503px;
+  position: absolute;left: 10px;
+}
+#System{
+  width: 100px;
+  height: 150px;
+  outline: 1px solid black;
+  position: absolute;top: 503px;
+  position: absolute;left: 320px;
+}
+#Features{
+  width: 310px;
+  height: 150px;
+  outline: 1px solid black;
+  position: absolute;top: 503px;
+  position: absolute;left: 420px;
+}
+#Acknowlements{
+  width: 100px;
+  height: 150px;
+  outline: 1px solid black;
+  position: absolute;top: 503px;
+  position: absolute;left: 730px;
+}
