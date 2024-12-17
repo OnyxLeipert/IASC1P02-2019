@@ -3,7 +3,7 @@ function ChangeText() { document.getElementById("one").style.fontSize = "10px";
 document.getElementById("one").style.color = "red";
 document.getElementById("two").style.color = "red";
 document.getElementById("three").style.color = "red";
-document.getElementById("two").position = "left"
+document.getElementById("two").position = "left";
 }
 function Addition() { document.getElementById("Numbertime").innerHTML = "Olive";
 }
