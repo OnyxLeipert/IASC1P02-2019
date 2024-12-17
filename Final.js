@@ -1,18 +1,18 @@
 
-function ChangeText() { document.getElementById("one").style.fontSize = "120px";
-document.getElementById("one").style.color = "blue";
-document.getElementById("two").style.color = "green";
-document.getElementById("three").style.color = "orange";
-document.getElementById("three").innerHTML = "PARAGRAPH THREE";
+function ChangeText() { document.getElementById("one").style.fontSize = "10px";
+document.getElementById("one").style.color = "#779eb2";
+document.getElementById("two").style.color = "#779eb2";
+document.getElementById("three").style.color = "#779eb2";
+document.getElementById("three").style.color = "#779eb2";
 document.getElementById("two").position = "left"
 }
-function Addition() { document.getElementById("Numbertime").innerHTML = "4";
+function Addition() { document.getElementById("Numbertime").innerHTML = "Chocolate";
 }
-function Subtraction() { document.getElementById("Numbertime").innerHTML = "-30";
+function Subtraction() { document.getElementById("Numbertime").innerHTML = "Burnt Umber";
 }
-function Division() { document.getElementById("Numbertime").innerHTML = "3";
+function Division() { document.getElementById("Numbertime").innerHTML = "Taupe";
 }
-function Multiplication() { document.getElementById("Numbertime").innerHTML = "8";
+function Multiplication() { document.getElementById("Numbertime").innerHTML = "Copper";
 }
-function BestNumber() { document.getElementById("Numbertime").innerHTML = "9";
+function BestNumber() { document.getElementById("Numbertime").innerHTML = "Sepia";
 }
